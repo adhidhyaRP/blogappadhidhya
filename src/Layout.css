@@ -1,0 +1,26 @@
+.navbar {
+    background: #333;
+  }
+  
+  .navbar-brand h1 {
+    color: #fff;
+  }
+  
+  .nav-link {
+    color: #ccc;
+  }
+  
+  .nav-link.active {
+    color: #fff;
+  }
+  
+  .btn-outline-light {
+    border-color: #fff;
+    color: #fff;
+  }
+  
+  .btn-outline-light:hover {
+    background-color: #fff;
+    color: #333;
+  }
+  
