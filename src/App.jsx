@@ -10,7 +10,7 @@ import Register from './components/Auth/Register';
 import Layout from './Layout';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
-import Bloghome from './components/Pages/bloghome';
+import Bloghome from './components/Pages/Bloghome';
 import BlogDetail from './components/Pages/BlogDetail';
 import CourseList from './components/Pages/CourseList';
 import CourseDetails from './components/Pages/CourseDetails';
