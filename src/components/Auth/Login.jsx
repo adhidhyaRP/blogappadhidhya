@@ -24,6 +24,7 @@ const Login = () => {
         .then((response) => {
           if (response.data.status) {
             localStorage.setItem('authorized',true)
+             localStorage.setItem('userId',response.data.userId)
             
             navigate('/');
           }
